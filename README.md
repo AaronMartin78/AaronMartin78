@@ -1,5 +1,5 @@
 - Hi, I’m @AaronMartin78
-- I amm currently working as a Data Science Consultant at Stat-Up in Munich, Germany.
+- I am currently working as a Data Science Consultant at Stat-Up in Munich, Germany.
 - I am interested in learning more about data analytics & data science, especially machine learning and sentiment analysis.
 - I am in the middle of building a Home Lab
 - I’m looking to collaborate on any project that will help me gain experience in this space
